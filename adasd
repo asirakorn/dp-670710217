@@ -1,0 +1,24 @@
+* [33m7fa83dc[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m made a change
+[31m|[m  test.rb | 2 [32m+[m[31m-[m
+[31m|[m  1 file changed, 1 insertion(+), 1 deletion(-)
+* [33m2ac3627[m made a change
+[31m|[m  test.rb | 1 [32m+[m
+[31m|[m  1 file changed, 1 insertion(+)
+* [33ma03ae58[m made a change
+[31m|[m  test.rb | 1 [32m+[m
+[31m|[m  1 file changed, 1 insertion(+)
+* [33mf063ca2[m[33m ([m[1;31morigin/main[m[33m)[m edit test.rb
+[31m|[m  test.rb | 1 [32m+[m
+[31m|[m  1 file changed, 1 insertion(+)
+* [33m2cd3ea5[m The initial commit of my project
+[31m|[m  LICENSE | 0
+[31m|[m  README  | 0
+[31m|[m  test.rb | 0
+[31m|[m  3 files changed, 0 insertions(+), 0 deletions(-)
+* [33mf95d5df[m edit add function
+[31m|[m  hello.py | 1 [32m+[m
+[31m|[m  sub.py   | 1 [32m+[m
+[31m|[m  2 files changed, 2 insertions(+)
+* [33m1829e7d[m Initial commit
+   README.md | 1 [32m+[m
+   1 file changed, 1 insertion(+)
