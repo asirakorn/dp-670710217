@@ -1,1 +1,1 @@
-puts "Hello from initial commit"
+puts "Hello from main"
